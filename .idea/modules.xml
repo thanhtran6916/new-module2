@@ -11,8 +11,10 @@
       <module fileurl="file://$PROJECT_DIR$/my-generic-stack/my-generic-stack.iml" filepath="$PROJECT_DIR$/my-generic-stack/my-generic-stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylinkedlistqueue/mylinkedlistqueue.iml" filepath="$PROJECT_DIR$/mylinkedlistqueue/mylinkedlistqueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/phan-biet-hashMap-va-hashSet/phan-biet-hashMap-va-hashSet.iml" filepath="$PROJECT_DIR$/phan-biet-hashMap-va-hashSet/phan-biet-hashMap-va-hashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quan-ly-thu-vien/quan-ly-thu-vien.iml" filepath="$PROJECT_DIR$/quan-ly-thu-vien/quan-ly-thu-vien.iml" />
       <module fileurl="file://$PROJECT_DIR$/queue-su-dung-mang/queue-su-dung-mang.iml" filepath="$PROJECT_DIR$/queue-su-dung-mang/queue-su-dung-mang.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack-su-dung-mang/stack-su-dung-mang.iml" filepath="$PROJECT_DIR$/stack-su-dung-mang/stack-su-dung-mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tim-kiem-nhi-phan/tim-kiem-nhi-phan.iml" filepath="$PROJECT_DIR$/tim-kiem-nhi-phan/tim-kiem-nhi-phan.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuan-2.iml" filepath="$PROJECT_DIR$/tuan-2.iml" />
     </modules>
   </component>
