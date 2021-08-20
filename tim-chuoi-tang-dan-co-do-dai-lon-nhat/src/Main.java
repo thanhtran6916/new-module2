@@ -2,7 +2,7 @@ import java.util.LinkedList;
 
 public class Main {
     public static void main(String[] args) {
-        String string = "Welcome";
+        String string = "abcabcdgabxy";
         char[] a = string.toCharArray();
         LinkedList<Character> result = new LinkedList<>();
         LinkedList<Character> holse = new LinkedList<>();
@@ -17,8 +17,9 @@ public class Main {
                 }
             }
             if (holse.size() > result.size()) {
-                result = holse;
+                result = new LinkedList<>(holse);
             }
+            holse.clear();
         }
         System.out.println(result);
     }
