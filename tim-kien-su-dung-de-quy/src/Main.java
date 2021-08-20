@@ -3,8 +3,7 @@ public class Main {
         int[] arrNumber = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         int left = 0;
         int right = arrNumber.length;
-        System.out.println(BinarySearch(arrNumber, 8, left, right));;
-
+        System.out.println(BinarySearch(arrNumber, 8, left, right));
     }
 
     public static int BinarySearch(int[] arrNumber, int value, int left, int right) {

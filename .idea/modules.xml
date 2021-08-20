@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/dao-nguoc-phan-tu/dao-nguoc-phan-tu.iml" filepath="$PROJECT_DIR$/dao-nguoc-phan-tu/dao-nguoc-phan-tu.iml" />
       <module fileurl="file://$PROJECT_DIR$/decima-to-binary/decima-to-binary.iml" filepath="$PROJECT_DIR$/decima-to-binary/decima-to-binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dem-so-lan-xuat-hien-cua-tu-trong-van-ban/dem-so-lan-xuat-hien-cua-tu-trong-van-ban.iml" filepath="$PROJECT_DIR$/dem-so-lan-xuat-hien-cua-tu-trong-van-ban/dem-so-lan-xuat-hien-cua-tu-trong-van-ban.iml" />
       <module fileurl="file://$PROJECT_DIR$/kiem-tra-chuoi-Palindrome/kiem-tra-chuoi-Palindrome.iml" filepath="$PROJECT_DIR$/kiem-tra-chuoi-Palindrome/kiem-tra-chuoi-Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/kiem-tra-ky-tu-co-so-lan-xuat-hien-nhieu-nhat/kiem-tra-ky-tu-co-so-lan-xuat-hien-nhieu-nhat.iml" filepath="$PROJECT_DIR$/kiem-tra-ky-tu-co-so-lan-xuat-hien-nhieu-nhat/kiem-tra-ky-tu-co-so-lan-xuat-hien-nhieu-nhat.iml" />
       <module fileurl="file://$PROJECT_DIR$/luu-danh-sach-sinh-vien-theo-do-tuoi/luu-danh-sach-sinh-vien-theo-do-tuoi.iml" filepath="$PROJECT_DIR$/luu-danh-sach-sinh-vien-theo-do-tuoi/luu-danh-sach-sinh-vien-theo-do-tuoi.iml" />
