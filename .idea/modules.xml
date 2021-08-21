@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/brinary-search-tree/brinary-search-tree.iml" filepath="$PROJECT_DIR$/brinary-search-tree/brinary-search-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cai-dat-thuat-toan-sap-xep-chon/cai-dat-thuat-toan-sap-xep-chon.iml" filepath="$PROJECT_DIR$/cai-dat-thuat-toan-sap-xep-chon/cai-dat-thuat-toan-sap-xep-chon.iml" />
       <module fileurl="file://$PROJECT_DIR$/cai-dat-thuat-toan-sap-xep-noi-bot/cai-dat-thuat-toan-sap-xep-noi-bot.iml" filepath="$PROJECT_DIR$/cai-dat-thuat-toan-sap-xep-noi-bot/cai-dat-thuat-toan-sap-xep-noi-bot.iml" />
       <module fileurl="file://$PROJECT_DIR$/dao-nguoc-phan-tu/dao-nguoc-phan-tu.iml" filepath="$PROJECT_DIR$/dao-nguoc-phan-tu/dao-nguoc-phan-tu.iml" />
       <module fileurl="file://$PROJECT_DIR$/decima-to-binary/decima-to-binary.iml" filepath="$PROJECT_DIR$/decima-to-binary/decima-to-binary.iml" />
