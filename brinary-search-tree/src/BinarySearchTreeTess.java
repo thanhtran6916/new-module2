@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 public class BinarySearchTreeTess {
     public static void main(String[] args) {
         BinarySearchTree tree = new BinarySearchTree();
@@ -7,7 +9,7 @@ public class BinarySearchTreeTess {
         tree.add(1);
         tree.add(0);
         System.out.println(tree.search(-1));
-
+        Stack<String> a = new Stack<>();
 
     }
 }
