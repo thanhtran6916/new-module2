@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/bai2/bai2.iml" filepath="$PROJECT_DIR$/bai2/bai2.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai4/bai4.iml" filepath="$PROJECT_DIR$/bai4/bai4.iml" />
       <module fileurl="file://$PROJECT_DIR$/on-tap.iml" filepath="$PROJECT_DIR$/on-tap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuat-toan-sap-xep/thuat-toan-sap-xep.iml" filepath="$PROJECT_DIR$/thuat-toan-sap-xep/thuat-toan-sap-xep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuat-toan-tim-kiem/thuat-toan-tim-kiem.iml" filepath="$PROJECT_DIR$/thuat-toan-tim-kiem/thuat-toan-tim-kiem.iml" />
     </modules>
   </component>
 </project>
