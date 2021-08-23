@@ -1,3 +1,8 @@
+import sun.reflect.generics.tree.Tree;
+
+import java.util.TreeMap;
+import java.util.function.Consumer;
+
 public class Main {
     public static void main(String[] args) {
         int[] list = {9,4,3,5,2,1,6,7};
