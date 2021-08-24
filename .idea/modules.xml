@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/tim-kien-su-dung-de-quy/tim-kien-su-dung-de-quy.iml" filepath="$PROJECT_DIR$/tim-kien-su-dung-de-quy/tim-kien-su-dung-de-quy.iml" />
       <module fileurl="file://$PROJECT_DIR$/trien-khai-linkedlist-don-gian/trien-khai-linkedlist-don-gian.iml" filepath="$PROJECT_DIR$/trien-khai-linkedlist-don-gian/trien-khai-linkedlist-don-gian.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuan-2.iml" filepath="$PROJECT_DIR$/tuan-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xay-dung-lop-IllegalTriangleException/xay-dung-lop-IllegalTriangleException.iml" filepath="$PROJECT_DIR$/xay-dung-lop-IllegalTriangleException/xay-dung-lop-IllegalTriangleException.iml" />
     </modules>
   </component>
 </project>
