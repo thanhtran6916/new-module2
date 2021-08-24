@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/cai-dat-thuat-toan-sap-xep-chen/cai-dat-thuat-toan-sap-xep-chen.iml" filepath="$PROJECT_DIR$/cai-dat-thuat-toan-sap-xep-chen/cai-dat-thuat-toan-sap-xep-chen.iml" />
       <module fileurl="file://$PROJECT_DIR$/cai-dat-thuat-toan-sap-xep-chon/cai-dat-thuat-toan-sap-xep-chon.iml" filepath="$PROJECT_DIR$/cai-dat-thuat-toan-sap-xep-chon/cai-dat-thuat-toan-sap-xep-chon.iml" />
       <module fileurl="file://$PROJECT_DIR$/cai-dat-thuat-toan-sap-xep-noi-bot/cai-dat-thuat-toan-sap-xep-noi-bot.iml" filepath="$PROJECT_DIR$/cai-dat-thuat-toan-sap-xep-noi-bot/cai-dat-thuat-toan-sap-xep-noi-bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-io/copy-file-text.iml" filepath="$PROJECT_DIR$/java-io/copy-file-text.iml" />
       <module fileurl="file://$PROJECT_DIR$/dao-nguoc-phan-tu/dao-nguoc-phan-tu.iml" filepath="$PROJECT_DIR$/dao-nguoc-phan-tu/dao-nguoc-phan-tu.iml" />
       <module fileurl="file://$PROJECT_DIR$/debug-and-exception/debug-and-exception.iml" filepath="$PROJECT_DIR$/debug-and-exception/debug-and-exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/decima-to-binary/decima-to-binary.iml" filepath="$PROJECT_DIR$/decima-to-binary/decima-to-binary.iml" />
@@ -26,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/quan-ly-thu-vien/quan-ly-thu-vien.iml" filepath="$PROJECT_DIR$/quan-ly-thu-vien/quan-ly-thu-vien.iml" />
       <module fileurl="file://$PROJECT_DIR$/queue-su-dung-mang/queue-su-dung-mang.iml" filepath="$PROJECT_DIR$/queue-su-dung-mang/queue-su-dung-mang.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack-su-dung-mang/stack-su-dung-mang.iml" filepath="$PROJECT_DIR$/stack-su-dung-mang/stack-su-dung-mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/su-dung-lop-NumberFormatException/su-dung-lop-NumberFormatException.iml" filepath="$PROJECT_DIR$/su-dung-lop-NumberFormatException/su-dung-lop-NumberFormatException.iml" />
       <module fileurl="file://$PROJECT_DIR$/tim-chuoi-tang-dan-co-do-dai-lon-nhat/tim-chuoi-tang-dan-co-do-dai-lon-nhat.iml" filepath="$PROJECT_DIR$/tim-chuoi-tang-dan-co-do-dai-lon-nhat/tim-chuoi-tang-dan-co-do-dai-lon-nhat.iml" />
       <module fileurl="file://$PROJECT_DIR$/tim-kiem-nhi-phan/tim-kiem-nhi-phan.iml" filepath="$PROJECT_DIR$/tim-kiem-nhi-phan/tim-kiem-nhi-phan.iml" />
       <module fileurl="file://$PROJECT_DIR$/tim-kien-su-dung-de-quy/tim-kien-su-dung-de-quy.iml" filepath="$PROJECT_DIR$/tim-kien-su-dung-de-quy/tim-kien-su-dung-de-quy.iml" />
