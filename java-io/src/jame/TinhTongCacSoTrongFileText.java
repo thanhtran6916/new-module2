@@ -1,3 +1,5 @@
+package jame;
+
 import java.io.*;
 
 public class TinhTongCacSoTrongFileText {
