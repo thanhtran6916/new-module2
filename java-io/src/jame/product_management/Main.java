@@ -6,7 +6,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main {
+public class Main implements Runnable {
     public static final String DATA_FILE = "E:\\CodeGym\\module_2\\tuan-2\\java-io\\src\\jame\\product_management\\data.txt";
     public static Scanner scanner = new Scanner(System.in);
     public static ProductManagement products = new ProductManagement();
@@ -106,5 +106,10 @@ public class Main {
         System.out.println("4. Lưu");
         System.out.println("5. Cập nhập sản phẩm");
         System.out.println("0. Thoát");
+    }
+
+    @Override
+    public void run() {
+
     }
 }

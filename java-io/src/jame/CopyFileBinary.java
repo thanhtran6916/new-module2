@@ -20,7 +20,6 @@ public class CopyFileBinary {
             }
         } catch (FileNotFoundException e) {
             System.err.println("File nguồn không tồn tại");
-            ;
         } catch (FileAlreadyExistsException e) {
             System.err.println("File đích đã tồn tại");
         }
@@ -43,7 +42,6 @@ public class CopyFileBinary {
             fileOutputStream.close();
         } catch (IOException e) {
             System.err.println("Lỗi copy");
-            ;
         }
     }
 }
