@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/phan-biet-hashMap-va-hashSet/phan-biet-hashMap-va-hashSet.iml" filepath="$PROJECT_DIR$/phan-biet-hashMap-va-hashSet/phan-biet-hashMap-va-hashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/quan-ly-thu-vien/quan-ly-thu-vien.iml" filepath="$PROJECT_DIR$/quan-ly-thu-vien/quan-ly-thu-vien.iml" />
       <module fileurl="file://$PROJECT_DIR$/queue-su-dung-mang/queue-su-dung-mang.iml" filepath="$PROJECT_DIR$/queue-su-dung-mang/queue-su-dung-mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regex/regex.iml" filepath="$PROJECT_DIR$/regex/regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack-su-dung-mang/stack-su-dung-mang.iml" filepath="$PROJECT_DIR$/stack-su-dung-mang/stack-su-dung-mang.iml" />
       <module fileurl="file://$PROJECT_DIR$/su-dung-lop-NumberFormatException/su-dung-lop-NumberFormatException.iml" filepath="$PROJECT_DIR$/su-dung-lop-NumberFormatException/su-dung-lop-NumberFormatException.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
