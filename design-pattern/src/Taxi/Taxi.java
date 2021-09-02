@@ -1,0 +1,21 @@
+package Taxi;
+
+public class Taxi {
+    private String name;
+
+    public Taxi() {
+
+    }
+
+    public Taxi(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}
